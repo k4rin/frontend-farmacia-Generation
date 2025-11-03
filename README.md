@@ -36,10 +36,11 @@ npm install
 
 # Inicie o servidor de desenvolvimento
 npm run dev
+```
 
 ## 🌐 Backend
 Este projeto consome uma API hospedada em farmacianest.onrender.com, que gerencia os dados de categorias. Certifique-se de que a API esteja ativa para que o cadastro funcione corretamente.
-
+```
 src/
 ├── componentes/
 │   ├── navbar/
@@ -51,6 +52,7 @@ src/
 │   └── Service.ts
 ├── App.tsx
 ├── main.tsx
+```
 
 ## 🧠 Aprendizados
 Este projeto foi desenvolvido como parte da formação na Generation Brasil, com foco em boas práticas de desenvolvimento front-end, integração com APIs REST e organização de componentes reutilizáveis.
